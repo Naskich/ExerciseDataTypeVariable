@@ -1,1 +1,1 @@
-# ExerciseDataTypeVariable
+# JavaExerciseDataTypeVariable
